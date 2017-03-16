@@ -9,5 +9,5 @@
 
  cout << "Enter A and B: ";
  cin >> a >> b;
-
+     cout << "A + B = " << a + b << '\n';
  }
