@@ -1,2 +1,4 @@
 .idea/
-cmake-build-bebug/
+cmake-build-debug/
+.idea/
+cmake-build-debug/
