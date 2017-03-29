@@ -12,9 +12,6 @@
      cout << "A + B = " << a + b << '\n';
      cout << "A*2= " << a*2<< '\n';
      cout << "A - B = " << a - b << '\n';
-     <<<<<<< HEAD
      cout << "A * B = " << a * b << '\n';
-     =======
-     cout << "A/B = " << a/b << '\n';
-     >>>>>>> division
+     cout << "A / B = " << a / b << '\n';
  }
